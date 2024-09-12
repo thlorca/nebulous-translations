@@ -482,8 +482,8 @@
     <string name="Win_1000_Arenas">"Vencer 1.000 Arenas."</string>
 
 
-    <string name="Already_in_arena_">"Já está na arena."</string>
-    <string name="Already_in_queue_">"Já está na fila."</string>
+    <string name="Already_in_arena_">"Você já está na Arena."</string>
+    <string name="Already_in_queue_">"Você já está na Fila."</string>
     <string name="Invalid_Account_ID_">"ID da conta Inválido."</string>
 
     <string name="Validating">"Validando"</string>
